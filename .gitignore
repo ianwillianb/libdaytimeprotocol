@@ -1,0 +1,13 @@
+/Debug/
+.cproject
+.project
+/.settings/
+CMakeCache.txt
+/CMakeFiles/
+DaytimeMessageProtocol.pc
+Makefile
+/built-examples/
+cmake_install.cmake
+install_manifest.txt
+libdaytimemessageprotocol.so
+libdaytimemessageprotocol_static.a
